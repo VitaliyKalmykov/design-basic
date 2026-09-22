@@ -14,7 +14,7 @@ White space allows content to “breathe.” It separates sections, groups relat
 - Two-column — A main content area alongside a sidebar. Common for documentation, dashboards, and news sites.
 - Card grid — Content displayed in a grid of equal-sized cards. Popular for product listings, portfolios, and image galleries.
 - Hero + sections — A large banner at the top followed by distinct content sections. The go-to pattern for marketing and landing pages.
-- 
+  
 ## Example
 We can see that the card on the left is frankly not very good compared to the one on the right, which has indents. 
 
