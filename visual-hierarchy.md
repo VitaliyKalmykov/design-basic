@@ -24,3 +24,14 @@
 #### We can combine styles to create a visual hierarchy
 
 <img width="1280" height="714" alt="image" src="https://github.com/user-attachments/assets/14e51de6-4999-4d92-b844-f45a4dbfa962" />
+
+### An example of poor visual hierarchy
+
+#### The user doesn't know where to look; everything is monotonous, and nothing stands out.
+
+<img width="1280" height="813" alt="image" src="https://github.com/user-attachments/assets/aeb6d56c-2fcc-431c-acb7-4ebcd652e446" />
+
+### Example of fix
+#### The page's theme stands out, the email input field stands out, the button catches the eye
+
+<img width="1280" height="912" alt="image" src="https://github.com/user-attachments/assets/3d067874-9c22-4904-8503-156ae4bdfcf7" />
