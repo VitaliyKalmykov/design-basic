@@ -1,10 +1,13 @@
 # White Spacing 
+
 ## White space gives text more depth and makes it look better than if there were no white space.
 
 - Padding (white space inside a block)
 - Margin (white space outside the block)
 - Line-height (vertical space between lines of text)
 - etc...
+- 
+### White space allows content to “breathe.” It separates sections, groups related elements, and creates a sense of openness and accessibility on the page, rather than a feeling of crampedness and clutter. The best websites often have more white space than you might expect.
 
 ## Example
 We can see that the card on the left is frankly not very good compared to the one on the right, which has indents. 
