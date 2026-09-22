@@ -18,12 +18,13 @@ We can see that the card on the left is frankly not very good compared to the on
 -External white spaces(Left, Right): 80px
 <img width="952" height="617" alt="image" src="https://github.com/user-attachments/assets/095a55af-ecc8-4969-8417-8a21b7a0d9a5" />
 - Line-height: For the most part, 150% (with some exceptions at 140)
+- Padding: Mostly 24px (with exceptions for some components)
 
 ### Mobile 
 -External white spaces(Left, Right): 24px 
 <img width="848" height="662" alt="image" src="https://github.com/user-attachments/assets/29b5db7d-290e-41ae-895d-ac8ea7738301" />
 - Line-height: For the most part, 150% (with some exceptions at 140)
-- Padding: Mostly 24px (with exceptions for some components)
+- Padding: Mostly 16px (with exceptions for some components)
 
 
 ## Card section
