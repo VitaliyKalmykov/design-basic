@@ -4,5 +4,5 @@
 #### It does not cover in-depth technical skills in web design. It serves as a guide for answering basic questions about design and solutions.
 
 ##### White spacing 
-[📐 White Spacing](white-spacing.md)
-[🧱 Aligment](aligment.md)
+- [📐 White Spacing](white-spacing.md)
+- [🧱 Aligment](aligment.md)
