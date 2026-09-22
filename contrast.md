@@ -20,9 +20,9 @@ The text contrast ratio must be at least 4.5:1, and for large text, at least 3:1
 The text contrast ratio must be at least 7:1; for large text, it must be at least 4.5:1.
 
 ## Contrast checking tools 
-Browser Plugins.
-Websites (https://webaim.org/resources/contrastchecker/).
-UI Application Plugins
+- Browser Plugins.
+- Websites (https://webaim.org/resources/contrastchecker/).
+- UI Application Plugins
 ## Example of bad contrast and fixed version
 <img width="1604" height="981" alt="image" src="https://github.com/user-attachments/assets/61f2d0bb-ced0-4402-932f-a0fe817e3576" />
 
