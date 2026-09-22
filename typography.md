@@ -23,7 +23,10 @@ The space between lines of text — called line height or leading — has a huge
 
 A good rule of thumb is to set line height to about 1.5 times the font size for body text. So if your text is 16 pixels tall, your line height should be around 24 pixels. This gives the eye enough room to move from one line to the next without losing its place.
 
-
+## Pairing Fonts
+Many websites use two fonts: one for headings and one for body text. The key to a good pairing is contrast with harmony:
+- Contrast — The two fonts should be noticeably different so each has a clear role (e.g., a bold serif heading with a clean sans-serif body).
+- Harmony — Despite being different, they should feel like they belong together. Fonts with similar proportions or mood tend to pair well.
 
 ## Example of bad design
 - 3 differents fonts
