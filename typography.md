@@ -12,6 +12,12 @@ The two most common categories of fonts on the web are:
 - Serif fonts (e.g., Times New Roman, Georgia) — These have small decorative strokes (serifs) at the ends of letters. They feel traditional, authoritative, and elegant. Common in newspapers, law firms, and literary publications.
 - Sans-serif fonts (e.g., Arial, Helvetica, Inter) — These lack those decorative strokes, resulting in a clean, modern feel. They dominate web design because they're highly readable on screens of all sizes.
 
+## Font Size and Scale
+Font size directly affects readability and hierarchy. A well-designed website uses a consistent type scale — a set of font sizes that work together harmoniously:
+- Body text — Usually 16–18 pixels on the web. This is the comfortable baseline for reading paragraphs.
+- Headings — Progressively larger, creating a clear hierarchy (h1 is biggest, h2 smaller, and so on).
+- Small text — Captions, footnotes, and labels may be 12–14 pixels, but should never be so small that they strain the eyes.
+
 ## Line Height and Spacing
 The space between lines of text — called line height or leading — has a huge impact on readability. Text that's too tightly packed feels suffocating. Text with too much space feels disconnected.
 
