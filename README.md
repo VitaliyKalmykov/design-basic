@@ -8,3 +8,4 @@
 - [🧱 Aligment](aligment.md)
 - [🟦⬜️ Contrast](contrast.md)
 - [🎢 Scale](scale.md)
+- [⌨️ Typography](typography.md)
