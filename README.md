@@ -7,3 +7,4 @@
 - [📐 White Spacing](white-spacing.md)
 - [🧱 Aligment](aligment.md)
 - [🟦⬜️ Contrast](contrast.md)
+- [🎢 Scale](scale.md)
