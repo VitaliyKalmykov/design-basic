@@ -5,3 +5,4 @@
 
 ##### White spacing 
 [📐 White Spacing](white-spacing.md)
+[🧱 Aligment](aligment.md)
