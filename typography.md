@@ -7,6 +7,11 @@
 - Font Styles (Bold, Italic, etc.)
 - Color and Contrast
 
+## Font Families: Serif vs. Sans-Serif
+The two most common categories of fonts on the web are:
+- Serif fonts (e.g., Times New Roman, Georgia) — These have small decorative strokes (serifs) at the ends of letters. They feel traditional, authoritative, and elegant. Common in newspapers, law firms, and literary publications.
+- Sans-serif fonts (e.g., Arial, Helvetica, Inter) — These lack those decorative strokes, resulting in a clean, modern feel. They dominate web design because they're highly readable on screens of all sizes.
+
 ## Example of bad design
 - 3 differents fonts
 - different font family (serif, sans-serif)
