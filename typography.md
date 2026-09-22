@@ -12,6 +12,13 @@ The two most common categories of fonts on the web are:
 - Serif fonts (e.g., Times New Roman, Georgia) — These have small decorative strokes (serifs) at the ends of letters. They feel traditional, authoritative, and elegant. Common in newspapers, law firms, and literary publications.
 - Sans-serif fonts (e.g., Arial, Helvetica, Inter) — These lack those decorative strokes, resulting in a clean, modern feel. They dominate web design because they're highly readable on screens of all sizes.
 
+## Line Height and Spacing
+The space between lines of text — called line height or leading — has a huge impact on readability. Text that's too tightly packed feels suffocating. Text with too much space feels disconnected.
+
+A good rule of thumb is to set line height to about 1.5 times the font size for body text. So if your text is 16 pixels tall, your line height should be around 24 pixels. This gives the eye enough room to move from one line to the next without losing its place.
+
+
+
 ## Example of bad design
 - 3 differents fonts
 - different font family (serif, sans-serif)
