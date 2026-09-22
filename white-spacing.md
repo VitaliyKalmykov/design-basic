@@ -11,6 +11,14 @@ We can see that the card on the left is frankly not very good compared to the on
 
 <img width="1280" height="558" alt="image" src="https://github.com/user-attachments/assets/31d74e70-1720-4a3a-b6db-842043f259da" />
 
+## Example 
+We can see so much difference with cards without white spacing and with
+
+<img width="1280" height="779" alt="image" src="https://github.com/user-attachments/assets/9a011ebf-736a-45b6-b20d-99d372107eb1" />
+<img width="1280" height="671" alt="image" src="https://github.com/user-attachments/assets/b0e31a7b-c77e-4118-8ec9-c2fbf3f36d41" />
+
+
+
 # White spaces in Orsa 
 
 ## Global
