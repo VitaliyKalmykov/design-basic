@@ -7,8 +7,14 @@
 - Line-height (vertical space between lines of text)
 - etc...
 - 
-### White space allows content to “breathe.” It separates sections, groups related elements, and creates a sense of openness and accessibility on the page, rather than a feeling of crampedness and clutter. The best websites often have more white space than you might expect.
+White space allows content to “breathe.” It separates sections, groups related elements, and creates a sense of openness and accessibility on the page, rather than a feeling of crampedness and clutter. The best websites often have more white space than you might expect.
 
+### Common Layout Patterns
+- Single column — Content flows top to bottom in one column. Ideal for articles, blog posts, and focused reading experiences.
+- Two-column — A main content area alongside a sidebar. Common for documentation, dashboards, and news sites.
+- Card grid — Content displayed in a grid of equal-sized cards. Popular for product listings, portfolios, and image galleries.
+- Hero + sections — A large banner at the top followed by distinct content sections. The go-to pattern for marketing and landing pages.
+- 
 ## Example
 We can see that the card on the left is frankly not very good compared to the one on the right, which has indents. 
 
